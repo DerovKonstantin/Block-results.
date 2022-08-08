@@ -34,5 +34,8 @@ void PrintArray(string[] array, string message)
 {
 ~~~
 
-**Вы также можете** найти блок схему программы пройдя по ссылке - https://drive.google.com/file/d/1aeJb4imtrExmLamCML3npJRPfo8qqorr/view?usp=sharing
+**Блок схема** программы представлена на рисунке ниже
+![Блок схема формирования массива](.\Blokshema.jpg)
 
+
+**Вы также можете** найти блок схему программы пройдя по ссылке - https://drive.google.com/file/d/1aeJb4imtrExmLamCML3npJRPfo8qqorr/view?usp=sharing
